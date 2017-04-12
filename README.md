@@ -43,4 +43,7 @@
 5. 《布道之道》
 6. 《解析极限编程》
 
+## 数据库
+1. 高性能MySQL
+
 http://calvin1978.blogcn.com/articles/bookshelf16.html
