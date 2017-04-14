@@ -8,6 +8,7 @@
 6. 《TCP/IP指南》
 7. 《HTTP权威指南》
 
+
 ## 算法
 1. 《数据结构与算法分析-Java语言描述 第3版》
 2. 《算法 第4版》
@@ -44,8 +45,9 @@
 6. 《解析极限编程》
 
 ## 数据库
-2. MySQL 5.6从零开始学
-1. 高性能MySQL
+1. 《MySql比会知识》
+2. 《MySQL 5.6从零开始学》
+1. 《高性能MySQL》
 
 
 http://calvin1978.blogcn.com/articles/bookshelf16.html
